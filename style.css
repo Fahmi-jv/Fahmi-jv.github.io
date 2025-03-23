@@ -361,3 +361,21 @@ footer {
     margin: 0 auto 20px;
     color: #666;
 }
+
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background: #1a3c34;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    display: none;
+    transition: background 0.3s ease;
+}
+
+#back-to-top:hover {
+    background: #d4af37;
+}
