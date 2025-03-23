@@ -339,4 +339,25 @@ footer {
         font-size: 0.9rem;
     }
 }
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​/* Portfolio Detail Page */
+.portfolio-detail {
+    text-align: center;
+}
+
+.portfolio-detail h1 {
+    font-size: 2rem;
+    color: #1a3c34;
+    margin-bottom: 20px;
+}
+
+.portfolio-detail img {
+    max-width: 400px;
+    margin: 20px 0;
+}
+
+.portfolio-detail p {
+    max-width: 800px;
+    margin: 0 auto 20px;
+    color: #666;
+}
