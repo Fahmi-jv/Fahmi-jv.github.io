@@ -418,3 +418,19 @@ footer {
 #contact-form button:hover {
     background: #d4af37;
 }
+
+body {
+    padding-top: 80px; /* Sesuaikan dengan tinggi header */
+}
+
+nav ul li a {
+    position: relative;
+    z-index: 10;
+    pointer-events: auto;
+}
+
+.cta-button {
+    position: relative;
+    z-index: 10;
+    pointer-events: auto;
+}
